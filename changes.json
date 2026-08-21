@@ -1,6 +1,81 @@
 {
   "updates": [
     {
+      "version": "2026-08-21",
+      "publishedAt": "2026-08-21T10:29:53",
+      "driverCount": 7724,
+      "counts": {
+        "added": 17,
+        "removed": 0,
+        "gradeChanges": 1,
+        "enteredReview": 6,
+        "leftReview": 0
+      },
+      "gradeChanges": [
+        {
+          "name": "Joshua Henry",
+          "from": null,
+          "to": "silver"
+        }
+      ],
+      "added": [
+        "Emma Tomlinson",
+        "Will Hess",
+        "Kacper Sztuka",
+        "Harvey Stanley",
+        "Guilherme Salas",
+        "Leonard Gousha",
+        "Vlad stefan Raducanu",
+        "Zach Blincoe",
+        "Jaden Harry",
+        "Kenneth Carter James (Carter James)",
+        "Le Zhang",
+        "Yifeng Liu",
+        "Chloe Chong",
+        "Parker Delong",
+        "Dimitar Balev",
+        "James Wareing",
+        "Valentijn Greven"
+      ],
+      "removed": [],
+      "enteredReview": [
+        "Massimiliano Wiser",
+        "Salih Yoluc",
+        "James Walker",
+        "Richard Heistand",
+        "José Manuel Urcera (Manu)",
+        "Eric Zitza"
+      ],
+      "leftReview": [],
+      "enteredReviewDetail": [
+        {
+          "name": "Massimiliano Wiser",
+          "grade": "silver"
+        },
+        {
+          "name": "Salih Yoluc",
+          "grade": "silver"
+        },
+        {
+          "name": "James Walker",
+          "grade": "silver"
+        },
+        {
+          "name": "Richard Heistand",
+          "grade": "silver"
+        },
+        {
+          "name": "José Manuel Urcera (Manu)",
+          "grade": "silver"
+        },
+        {
+          "name": "Eric Zitza",
+          "grade": "silver"
+        }
+      ],
+      "leftReviewDetail": []
+    },
+    {
       "version": "2026-08-11",
       "publishedAt": "2026-08-11T12:53:55",
       "driverCount": 7707,

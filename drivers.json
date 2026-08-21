@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-11",
+  "lastUpdated": "2026-08-21",
   "source": "FIA public categorisation feed, cross-checked against public-drivers-list-2026-2.pdf",
-  "driverCount": 7707,
-  "totalInSource": 7707,
+  "driverCount": 7724,
+  "totalInSource": 7724,
   "subset": null,
   "drivers": [
     {
@@ -4554,6 +4554,18 @@
       "nextCategoryDate": null
     },
     {
+      "lastName": "Balev",
+      "lastNameNote": null,
+      "firstName": "Dimitar",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Bulgaria",
+      "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
       "lastName": "Balfe",
       "lastNameNote": null,
       "firstName": "Shaun",
@@ -8136,6 +8148,18 @@
       "firstNameNote": null,
       "searchAlias": null,
       "nationality": "Australia",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Blincoe",
+      "lastNameNote": null,
+      "firstName": "Zach",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "New Zealand",
       "category": "silver",
       "underInvestigation": false,
       "nextCategory": null,
@@ -14864,6 +14888,18 @@
     {
       "lastName": "Chong",
       "lastNameNote": null,
+      "firstName": "Chloe",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United Kingdom",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Chong",
+      "lastNameNote": null,
       "firstName": "Leng Hong Ringo",
       "firstNameNote": null,
       "searchAlias": null,
@@ -19633,6 +19669,18 @@
       "searchAlias": null,
       "nationality": "France",
       "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Delong",
+      "lastNameNote": null,
+      "firstName": "Parker",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United States",
+      "category": "silver",
       "underInvestigation": false,
       "nextCategory": null,
       "nextCategoryDate": null
@@ -30630,6 +30678,18 @@
       "nextCategoryDate": null
     },
     {
+      "lastName": "Gousha",
+      "lastNameNote": null,
+      "firstName": "Leonard",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United States",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
       "lastName": "Gouverneur",
       "lastNameNote": "STEPH",
       "firstName": "Stéphane",
@@ -31261,6 +31321,18 @@
       "searchAlias": null,
       "nationality": "France",
       "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Greven",
+      "lastNameNote": null,
+      "firstName": "Valentijn",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Netherlands",
+      "category": "silver",
       "underInvestigation": false,
       "nextCategory": null,
       "nextCategoryDate": null
@@ -33702,6 +33774,18 @@
       "nextCategoryDate": null
     },
     {
+      "lastName": "Harry",
+      "lastNameNote": null,
+      "firstName": "Jaden",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Canada",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
       "lastName": "Hart",
       "lastNameNote": null,
       "firstName": "Charlie",
@@ -34597,7 +34681,7 @@
       "searchAlias": null,
       "nationality": "United States",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -34764,10 +34848,10 @@
       "firstNameNote": null,
       "searchAlias": null,
       "nationality": "Ireland",
-      "category": null,
+      "category": "silver",
       "underInvestigation": false,
-      "nextCategory": "silver",
-      "nextCategoryDate": "2026-02-28"
+      "nextCategory": null,
+      "nextCategoryDate": null
     },
     {
       "lastName": "Henry",
@@ -35100,6 +35184,18 @@
       "firstNameNote": null,
       "searchAlias": null,
       "nationality": "France",
+      "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Hess",
+      "lastNameNote": null,
+      "firstName": "Will",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United States",
       "category": "bronze",
       "underInvestigation": false,
       "nextCategory": null,
@@ -38653,6 +38749,18 @@
       "searchAlias": null,
       "nationality": "United Kingdom",
       "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "James",
+      "lastNameNote": "Carter James",
+      "firstName": "Kenneth Carter",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United States",
+      "category": "bronze",
       "underInvestigation": false,
       "nextCategory": null,
       "nextCategoryDate": null
@@ -48765,6 +48873,18 @@
       "lastName": "Liu",
       "lastNameNote": null,
       "firstName": "Xu",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "China",
+      "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Liu",
+      "lastNameNote": null,
+      "firstName": "Yifeng",
       "firstNameNote": null,
       "searchAlias": null,
       "nationality": "China",
@@ -68310,6 +68430,18 @@
       "nextCategoryDate": null
     },
     {
+      "lastName": "Raducanu",
+      "lastNameNote": null,
+      "firstName": "Vlad stefan",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Romania",
+      "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
       "lastName": "Rae",
       "lastNameNote": null,
       "firstName": "Olly",
@@ -72504,6 +72636,18 @@
       "firstNameNote": null,
       "searchAlias": null,
       "nationality": "Czech Republic",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Salas",
+      "lastNameNote": null,
+      "firstName": "Guilherme",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Brazil",
       "category": "silver",
       "underInvestigation": false,
       "nextCategory": null,
@@ -78500,6 +78644,18 @@
     {
       "lastName": "Stanley",
       "lastNameNote": null,
+      "firstName": "Harvey",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United Kingdom",
+      "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Stanley",
+      "lastNameNote": null,
       "firstName": "Jamie",
       "firstNameNote": null,
       "searchAlias": null,
@@ -80245,6 +80401,18 @@
       "searchAlias": null,
       "nationality": "United States",
       "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Sztuka",
+      "lastNameNote": null,
+      "firstName": "Kacper",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Poland",
+      "category": "silver",
       "underInvestigation": false,
       "nextCategory": null,
       "nextCategoryDate": null
@@ -82544,6 +82712,18 @@
     {
       "lastName": "Tomlinson",
       "lastNameNote": null,
+      "firstName": "Emma",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United Kingdom",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Tomlinson",
+      "lastNameNote": null,
       "firstName": "Freddie",
       "firstNameNote": null,
       "searchAlias": null,
@@ -84061,7 +84241,7 @@
       "searchAlias": null,
       "nationality": "Argentina",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -87517,7 +87697,7 @@
       "searchAlias": null,
       "nationality": "United Kingdom",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -87950,6 +88130,18 @@
       "nationality": "United States",
       "category": "bronze",
       "underInvestigation": true,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Wareing",
+      "lastNameNote": null,
+      "firstName": "James",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United Kingdom",
+      "category": "silver",
+      "underInvestigation": false,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -89701,7 +89893,7 @@
       "searchAlias": null,
       "nationality": "Italy",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -91165,7 +91357,7 @@
       "searchAlias": null,
       "nationality": "Turkey",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -91988,6 +92180,18 @@
     {
       "lastName": "Zhang",
       "lastNameNote": null,
+      "firstName": "Le",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Australia",
+      "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Zhang",
+      "lastNameNote": null,
       "firstName": "Wen He",
       "firstNameNote": null,
       "searchAlias": null,
@@ -92293,7 +92497,7 @@
       "searchAlias": null,
       "nationality": "United States",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
