@@ -1,6 +1,106 @@
 {
   "updates": [
     {
+      "version": "2026-08-27",
+      "publishedAt": "2026-08-27T19:17:54",
+      "driverCount": 7737,
+      "counts": {
+        "added": 13,
+        "removed": 0,
+        "gradeChanges": 0,
+        "enteredReview": 13,
+        "leftReview": 0
+      },
+      "gradeChanges": [],
+      "added": [
+        "Jack Taylor",
+        "Adrian Lee",
+        "Christopher Reindler",
+        "Paulius Urbonavičius",
+        "Vivek Kanthan",
+        "Kenneth Gregg",
+        "Eros Gioannini",
+        "Mattia Tremolada",
+        "Max Garcia",
+        "Max Repolust",
+        "Brandon Parrish",
+        "Maciej Bernacik",
+        "Andre Marques"
+      ],
+      "removed": [],
+      "enteredReview": [
+        "Mattia Pasini",
+        "Freddie Hunt",
+        "Jean-Philippe Belloc",
+        "Griffin Peebles",
+        "Tommy michael Foster",
+        "Daniel Mancinelli",
+        "Jordan Love",
+        "Alban Varutti",
+        "Conrad Grunewald",
+        "Norman Nato",
+        "Sami Meguetounif",
+        "Yifei Ye",
+        "Stéphane Ortelli"
+      ],
+      "leftReview": [],
+      "enteredReviewDetail": [
+        {
+          "name": "Mattia Pasini",
+          "grade": "silver"
+        },
+        {
+          "name": "Freddie Hunt",
+          "grade": "silver"
+        },
+        {
+          "name": "Jean-Philippe Belloc",
+          "grade": "silver"
+        },
+        {
+          "name": "Griffin Peebles",
+          "grade": "silver"
+        },
+        {
+          "name": "Tommy michael Foster",
+          "grade": "gold"
+        },
+        {
+          "name": "Daniel Mancinelli",
+          "grade": "gold"
+        },
+        {
+          "name": "Jordan Love",
+          "grade": "gold"
+        },
+        {
+          "name": "Alban Varutti",
+          "grade": "silver"
+        },
+        {
+          "name": "Conrad Grunewald",
+          "grade": "silver"
+        },
+        {
+          "name": "Norman Nato",
+          "grade": "gold"
+        },
+        {
+          "name": "Sami Meguetounif",
+          "grade": "silver"
+        },
+        {
+          "name": "Yifei Ye",
+          "grade": "gold"
+        },
+        {
+          "name": "Stéphane Ortelli",
+          "grade": "gold"
+        }
+      ],
+      "leftReviewDetail": []
+    },
+    {
       "version": "2026-08-21",
       "publishedAt": "2026-08-21T10:29:53",
       "driverCount": 7724,
