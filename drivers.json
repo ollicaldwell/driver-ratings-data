@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27",
+  "lastUpdated": "2026-08-30",
   "source": "FIA public categorisation feed, cross-checked against public-drivers-list-2026-2.pdf",
   "driverCount": 7737,
   "totalInSource": 7737,
@@ -42709,7 +42709,7 @@
       "searchAlias": null,
       "nationality": "France",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -60337,7 +60337,7 @@
       "searchAlias": null,
       "nationality": "Japan",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },

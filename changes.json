@@ -1,6 +1,37 @@
 {
   "updates": [
     {
+      "version": "2026-08-30",
+      "publishedAt": "2026-08-30T10:26:53",
+      "driverCount": 7737,
+      "counts": {
+        "added": 0,
+        "removed": 0,
+        "gradeChanges": 0,
+        "enteredReview": 2,
+        "leftReview": 0
+      },
+      "gradeChanges": [],
+      "added": [],
+      "removed": [],
+      "enteredReview": [
+        "Morio Nitta",
+        "François Kirmann"
+      ],
+      "leftReview": [],
+      "enteredReviewDetail": [
+        {
+          "name": "Morio Nitta",
+          "grade": "silver"
+        },
+        {
+          "name": "François Kirmann",
+          "grade": "silver"
+        }
+      ],
+      "leftReviewDetail": []
+    },
+    {
       "version": "2026-08-27",
       "publishedAt": "2026-08-27T19:17:54",
       "driverCount": 7737,
