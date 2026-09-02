@@ -1,6 +1,167 @@
 {
   "updates": [
     {
+      "version": "2026-09-02",
+      "publishedAt": "2026-09-02T12:05:04",
+      "driverCount": 7741,
+      "counts": {
+        "added": 4,
+        "removed": 0,
+        "gradeChanges": 0,
+        "enteredReview": 27,
+        "leftReview": 0
+      },
+      "gradeChanges": [],
+      "added": [
+        "Bryce Moore",
+        "Beau Lowette",
+        "Adam Presson",
+        "Yan Whittaker"
+      ],
+      "removed": [],
+      "enteredReview": [
+        "Kobe Pauwels",
+        "Rino Mastronardi",
+        "Joseph Loake",
+        "Doriane Pin",
+        "Atsushi Miyake",
+        "Ben Tuck",
+        "Arkin Aka",
+        "Jack Mitchell",
+        "Max Hesse",
+        "Vesko Kozarov",
+        "Lilou Wadoux ducellier (LWD)",
+        "Constantin Dressler",
+        "Aaron Love",
+        "Fabian Schiller",
+        "Oliver Caldwell (Olli Caldwell)",
+        "Dane Cameron",
+        "Rory Penttinen",
+        "Ben Dörr",
+        "Sean Gelael",
+        "Michael Stephen",
+        "Valentino Rossi",
+        "Thomas Fleming",
+        "Laurin Heinrich",
+        "Aurelien Panis",
+        "Ian Aguilera",
+        "Jarrod Waberski",
+        "Eduardo Barrichello"
+      ],
+      "leftReview": [],
+      "enteredReviewDetail": [
+        {
+          "name": "Kobe Pauwels",
+          "grade": "silver"
+        },
+        {
+          "name": "Rino Mastronardi",
+          "grade": "silver"
+        },
+        {
+          "name": "Joseph Loake",
+          "grade": "silver"
+        },
+        {
+          "name": "Doriane Pin",
+          "grade": "silver"
+        },
+        {
+          "name": "Atsushi Miyake",
+          "grade": "silver"
+        },
+        {
+          "name": "Ben Tuck",
+          "grade": "silver"
+        },
+        {
+          "name": "Arkin Aka",
+          "grade": "silver"
+        },
+        {
+          "name": "Jack Mitchell",
+          "grade": "silver"
+        },
+        {
+          "name": "Max Hesse",
+          "grade": "gold"
+        },
+        {
+          "name": "Vesko Kozarov",
+          "grade": "silver"
+        },
+        {
+          "name": "Lilou Wadoux ducellier (LWD)",
+          "grade": "silver"
+        },
+        {
+          "name": "Constantin Dressler",
+          "grade": "bronze"
+        },
+        {
+          "name": "Aaron Love",
+          "grade": "gold"
+        },
+        {
+          "name": "Fabian Schiller",
+          "grade": "gold"
+        },
+        {
+          "name": "Oliver Caldwell (Olli Caldwell)",
+          "grade": "gold"
+        },
+        {
+          "name": "Dane Cameron",
+          "grade": "platinum"
+        },
+        {
+          "name": "Rory Penttinen",
+          "grade": "silver"
+        },
+        {
+          "name": "Ben Dörr",
+          "grade": "silver"
+        },
+        {
+          "name": "Sean Gelael",
+          "grade": "silver"
+        },
+        {
+          "name": "Michael Stephen",
+          "grade": "silver"
+        },
+        {
+          "name": "Valentino Rossi",
+          "grade": "silver"
+        },
+        {
+          "name": "Thomas Fleming",
+          "grade": "silver"
+        },
+        {
+          "name": "Laurin Heinrich",
+          "grade": "gold"
+        },
+        {
+          "name": "Aurelien Panis",
+          "grade": "silver"
+        },
+        {
+          "name": "Ian Aguilera",
+          "grade": "silver"
+        },
+        {
+          "name": "Jarrod Waberski",
+          "grade": "silver"
+        },
+        {
+          "name": "Eduardo Barrichello",
+          "grade": "silver"
+        }
+      ],
+      "leftReviewDetail": []
+    },
+    {
       "version": "2026-08-30",
       "publishedAt": "2026-08-30T10:26:53",
       "driverCount": 7737,

@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-30",
+  "lastUpdated": "2026-09-02",
   "source": "FIA public categorisation feed, cross-checked against public-drivers-list-2026-2.pdf",
-  "driverCount": 7737,
-  "totalInSource": 7737,
+  "driverCount": 7741,
+  "totalInSource": 7741,
   "subset": null,
   "drivers": [
     {
@@ -733,7 +733,7 @@
       "searchAlias": null,
       "nationality": "Mexico",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -865,7 +865,7 @@
       "searchAlias": null,
       "nationality": "Germany",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -5197,7 +5197,7 @@
       "searchAlias": null,
       "nationality": "Brazil",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -11785,7 +11785,7 @@
       "searchAlias": null,
       "nationality": "United Kingdom",
       "category": "gold",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -11977,7 +11977,7 @@
       "searchAlias": null,
       "nationality": "United States",
       "category": "platinum",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -21541,7 +21541,7 @@
       "searchAlias": null,
       "nationality": "Germany",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -21721,7 +21721,7 @@
       "searchAlias": null,
       "nationality": "Germany",
       "category": "bronze",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -25849,7 +25849,7 @@
       "searchAlias": null,
       "nationality": "United Kingdom",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -28645,7 +28645,7 @@
       "searchAlias": null,
       "nationality": "Indonesia",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -34681,7 +34681,7 @@
       "searchAlias": null,
       "nationality": "Germany",
       "category": "gold",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -35257,7 +35257,7 @@
       "searchAlias": null,
       "nationality": "Germany",
       "category": "gold",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -44173,7 +44173,7 @@
       "searchAlias": null,
       "nationality": "Bulgaria",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -49093,7 +49093,7 @@
       "searchAlias": null,
       "nationality": "United Kingdom",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -49741,7 +49741,7 @@
       "searchAlias": null,
       "nationality": "Australia",
       "category": "gold",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -49824,6 +49824,18 @@
       "firstNameNote": null,
       "searchAlias": null,
       "nationality": "United States",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Lowette",
+      "lastNameNote": null,
+      "firstName": "Beau",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Belgium",
       "category": "silver",
       "underInvestigation": false,
       "nextCategory": null,
@@ -52825,7 +52837,7 @@
       "searchAlias": null,
       "nationality": "Italy",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -56173,7 +56185,7 @@
       "searchAlias": null,
       "nationality": "United Kingdom",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -56245,7 +56257,7 @@
       "searchAlias": null,
       "nationality": "Japan",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -56964,6 +56976,18 @@
       "firstNameNote": null,
       "searchAlias": null,
       "nationality": "South Africa",
+      "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Moore",
+      "lastNameNote": null,
+      "firstName": "Bryce",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Australia",
       "category": "bronze",
       "underInvestigation": false,
       "nextCategory": null,
@@ -62953,7 +62977,7 @@
       "searchAlias": null,
       "nationality": "France",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -63781,7 +63805,7 @@
       "searchAlias": null,
       "nationality": "Belgium",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -64345,7 +64369,7 @@
       "searchAlias": null,
       "nationality": "Finland",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -65881,7 +65905,7 @@
       "searchAlias": null,
       "nationality": "France",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -67380,6 +67404,18 @@
       "firstNameNote": null,
       "searchAlias": null,
       "nationality": "France",
+      "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Presson",
+      "lastNameNote": null,
+      "firstName": "Adam",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United States",
       "category": "bronze",
       "underInvestigation": false,
       "nextCategory": null,
@@ -71725,7 +71761,7 @@
       "searchAlias": null,
       "nationality": "Italy",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -74425,7 +74461,7 @@
       "searchAlias": null,
       "nationality": "Germany",
       "category": "gold",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -79069,7 +79105,7 @@
       "searchAlias": null,
       "nationality": "South Africa",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -83785,7 +83821,7 @@
       "searchAlias": null,
       "nationality": "United Kingdom",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -87469,7 +87505,7 @@
       "searchAlias": null,
       "nationality": "South Africa",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -87553,7 +87589,7 @@
       "searchAlias": null,
       "nationality": "France",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -89449,6 +89485,18 @@
       "searchAlias": null,
       "nationality": "New Zealand",
       "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Whittaker",
+      "lastNameNote": null,
+      "firstName": "Yan",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United Kingdom",
+      "category": "bronze",
       "underInvestigation": false,
       "nextCategory": null,
       "nextCategoryDate": null
