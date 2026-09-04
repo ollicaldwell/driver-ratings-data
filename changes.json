@@ -1,6 +1,195 @@
 {
   "updates": [
     {
+      "version": "2026-09-04",
+      "publishedAt": "2026-09-04T11:59:57",
+      "driverCount": 7747,
+      "counts": {
+        "added": 6,
+        "removed": 0,
+        "gradeChanges": 1,
+        "enteredReview": 31,
+        "leftReview": 0
+      },
+      "gradeChanges": [
+        {
+          "name": "Maciej Bernacik",
+          "from": "silver",
+          "to": "bronze"
+        }
+      ],
+      "added": [
+        "Felipe Fernandez",
+        "Victor Fernandez gil",
+        "Sebastião Malucelli (Sebá Malucelli)",
+        "Jordan Ramon",
+        "Patrick Schneider",
+        "Ruben Fernandez gil"
+      ],
+      "removed": [],
+      "enteredReview": [
+        "Eric Helary",
+        "Duncan Huisman",
+        "Maciej Bernacik",
+        "Rocco Mazzola",
+        "Jacques Villeneuve",
+        "Christophe Bouchut",
+        "Riccardo Pera",
+        "Bernd Michael Mayländer",
+        "Luca Engstler",
+        "Kai Allen",
+        "Claudia Huertgen",
+        "Finn Wiebelhaus",
+        "Emmanuel Collard",
+        "Christian Menzel",
+        "Ariel Levi",
+        "Jj Lehto (Jyrki Järvilehto)",
+        "Matt Neal",
+        "Christian Fittipaldi",
+        "Jeffery Gordon",
+        "Julien Andlauer",
+        "Matthew Payne",
+        "Cristian Pescatori",
+        "Olivier Panis",
+        "Nobuteru Taniguchi",
+        "Dustin Blattner",
+        "Anthony Beltoise",
+        "Mika Salo",
+        "Aaron Cameron",
+        "Brodie Kostecki",
+        "Emmanuel Guigou",
+        "Vincenzo Sospiri"
+      ],
+      "leftReview": [],
+      "enteredReviewDetail": [
+        {
+          "name": "Eric Helary",
+          "grade": "silver"
+        },
+        {
+          "name": "Duncan Huisman",
+          "grade": "silver"
+        },
+        {
+          "name": "Maciej Bernacik",
+          "grade": "bronze"
+        },
+        {
+          "name": "Rocco Mazzola",
+          "grade": "silver"
+        },
+        {
+          "name": "Jacques Villeneuve",
+          "grade": "platinum"
+        },
+        {
+          "name": "Christophe Bouchut",
+          "grade": "silver"
+        },
+        {
+          "name": "Riccardo Pera",
+          "grade": "silver"
+        },
+        {
+          "name": "Bernd Michael Mayländer",
+          "grade": "silver"
+        },
+        {
+          "name": "Luca Engstler",
+          "grade": "gold"
+        },
+        {
+          "name": "Kai Allen",
+          "grade": "gold"
+        },
+        {
+          "name": "Claudia Huertgen",
+          "grade": "silver"
+        },
+        {
+          "name": "Finn Wiebelhaus",
+          "grade": "silver"
+        },
+        {
+          "name": "Emmanuel Collard",
+          "grade": "silver"
+        },
+        {
+          "name": "Christian Menzel",
+          "grade": "silver"
+        },
+        {
+          "name": "Ariel Levi",
+          "grade": "silver"
+        },
+        {
+          "name": "Jj Lehto (Jyrki Järvilehto)",
+          "grade": "silver"
+        },
+        {
+          "name": "Matt Neal",
+          "grade": "silver"
+        },
+        {
+          "name": "Christian Fittipaldi",
+          "grade": "gold"
+        },
+        {
+          "name": "Jeffery Gordon",
+          "grade": "gold"
+        },
+        {
+          "name": "Julien Andlauer",
+          "grade": "gold"
+        },
+        {
+          "name": "Matthew Payne",
+          "grade": "gold"
+        },
+        {
+          "name": "Cristian Pescatori",
+          "grade": "silver"
+        },
+        {
+          "name": "Olivier Panis",
+          "grade": "silver"
+        },
+        {
+          "name": "Nobuteru Taniguchi",
+          "grade": "silver"
+        },
+        {
+          "name": "Dustin Blattner",
+          "grade": "bronze"
+        },
+        {
+          "name": "Anthony Beltoise",
+          "grade": "silver"
+        },
+        {
+          "name": "Mika Salo",
+          "grade": "silver"
+        },
+        {
+          "name": "Aaron Cameron",
+          "grade": "silver"
+        },
+        {
+          "name": "Brodie Kostecki",
+          "grade": "gold"
+        },
+        {
+          "name": "Emmanuel Guigou",
+          "grade": "silver"
+        },
+        {
+          "name": "Vincenzo Sospiri",
+          "grade": "silver"
+        }
+      ],
+      "leftReviewDetail": []
+    },
+    {
       "version": "2026-09-02",
       "publishedAt": "2026-09-02T12:05:04",
       "driverCount": 7741,
