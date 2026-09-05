@@ -1,6 +1,32 @@
 {
   "updates": [
     {
+      "version": "2026-09-05",
+      "publishedAt": "2026-09-05T09:32:07",
+      "driverCount": 7747,
+      "counts": {
+        "added": 0,
+        "removed": 0,
+        "gradeChanges": 0,
+        "enteredReview": 1,
+        "leftReview": 0
+      },
+      "gradeChanges": [],
+      "added": [],
+      "removed": [],
+      "enteredReview": [
+        "Gray Newell"
+      ],
+      "leftReview": [],
+      "enteredReviewDetail": [
+        {
+          "name": "Gray Newell",
+          "grade": "bronze"
+        }
+      ],
+      "leftReviewDetail": []
+    },
+    {
       "version": "2026-09-04",
       "publishedAt": "2026-09-04T11:59:57",
       "driverCount": 7747,

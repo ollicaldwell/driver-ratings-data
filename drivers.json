@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04",
+  "lastUpdated": "2026-09-05",
   "source": "FIA public categorisation feed, cross-checked against public-drivers-list-2026-2.pdf",
   "driverCount": 7747,
   "totalInSource": 7747,
@@ -60025,7 +60025,7 @@
       "searchAlias": null,
       "nationality": "United States",
       "category": "bronze",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
