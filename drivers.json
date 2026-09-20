@@ -1,7 +1,7 @@
 {
   "lastUpdated": "2026-09-20",
   "source": "FIA public categorisation feed, cross-checked against public-drivers-list-2026-2.pdf",
-  "driverCount": 7761,
+  "driverCount": 7764,
   "totalInSource": 7761,
   "subset": null,
   "drivers": [
@@ -23994,6 +23994,18 @@
       "nextCategoryDate": null
     },
     {
+      "lastName": "Et tahery",
+      "lastNameNote": null,
+      "firstName": "Pauline",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": null,
+      "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
       "lastName": "Ettore",
       "lastNameNote": null,
       "firstName": "Carminati",
@@ -42097,6 +42109,18 @@
       "searchAlias": null,
       "nationality": "United States",
       "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Khamtonwong",
+      "lastNameNote": null,
+      "firstName": "Supong",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Thailand",
+      "category": "silver",
       "underInvestigation": false,
       "nextCategory": null,
       "nextCategoryDate": null
@@ -74197,6 +74221,18 @@
       "searchAlias": null,
       "nationality": "New Zealand",
       "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Sbirrazzuoli",
+      "lastNameNote": null,
+      "firstName": "Cedric",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Monaco",
+      "category": "silver",
       "underInvestigation": false,
       "nextCategory": null,
       "nextCategoryDate": null

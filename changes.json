@@ -2,6 +2,29 @@
   "updates": [
     {
       "version": "2026-09-20",
+      "publishedAt": "2026-09-20T12:19:22",
+      "driverCount": 7764,
+      "counts": {
+        "added": 3,
+        "removed": 0,
+        "gradeChanges": 0,
+        "enteredReview": 0,
+        "leftReview": 0
+      },
+      "gradeChanges": [],
+      "added": [
+        "Pauline Et tahery",
+        "Cedric Sbirrazzuoli",
+        "Supong Khamtonwong"
+      ],
+      "removed": [],
+      "enteredReview": [],
+      "leftReview": [],
+      "enteredReviewDetail": [],
+      "leftReviewDetail": []
+    },
+    {
+      "version": "2026-09-20",
       "publishedAt": "2026-09-20T12:03:55",
       "driverCount": 7761,
       "counts": {
