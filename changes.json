@@ -1,6 +1,1357 @@
 {
   "updates": [
     {
+      "version": "2026-09-20",
+      "publishedAt": "2026-09-20T12:03:55",
+      "driverCount": 7761,
+      "counts": {
+        "added": 17,
+        "removed": 3,
+        "gradeChanges": 0,
+        "enteredReview": 44,
+        "leftReview": 181
+      },
+      "gradeChanges": [],
+      "added": [
+        "Scott Barry",
+        "Frank Porte ruiz",
+        "Ryan Kircher",
+        "Amar Sharma",
+        "Noah Massa",
+        "Carlton Macfarlane",
+        "Pascal Chaboseau",
+        "Olivier Jonckers",
+        "Nicola Larini",
+        "Ryoma Henzan",
+        "Fabrizio Rosati",
+        "Yahn Bernier",
+        "Tyler Collins",
+        "Jorden Dolischka",
+        "Alexander christoffer Dahlström",
+        "Daniel Weston",
+        "Peter Hegelund Thuesen"
+      ],
+      "removed": [
+        "Pauline Et tahery",
+        "Supong Khamtonwong",
+        "Cedric Sbirrazzuoli"
+      ],
+      "enteredReview": [
+        "Matthew Cresci",
+        "Phil Ingram",
+        "Lindsay Brewer",
+        "Hubert Darmetko",
+        "Vincent Capillaire",
+        "Cody Ellsworth",
+        "Alessandro Balzan",
+        "Timo Bernhard",
+        "Aaron Nash",
+        "Tadas Karlinskas",
+        "Pippa Mann",
+        "Paul Lafargue",
+        "Marco Zipoli",
+        "Lenoir Philippe",
+        "Kyle Marcelli",
+        "Aleksei Basov",
+        "Emil Bernstorff",
+        "Ineichen Rolf",
+        "Thiago Camilo",
+        "Lucas Sugliano",
+        "Sabino Marco De Castro",
+        "Andrew Pinkerton",
+        "Simona De Silvestro",
+        "Jordan Boisson",
+        "Cesar Ramos",
+        "Allam Khodair",
+        "Paul Holton",
+        "Jesse Dixon",
+        "Joao Barbosa",
+        "Carrie Schreiner",
+        "Townsend Bell",
+        "Steve Brown (Steve Alvarez Brown)",
+        "Maxx Ebenal",
+        "Alexandre Imperatori",
+        "Erika Hoffmann",
+        "Bailey Love",
+        "Andrea Ceccato",
+        "Jon Lancaster",
+        "Akhil Agarwal",
+        "Andrew Kim",
+        "Alex Yoong",
+        "Francesco Provenzano (Frankie Provenzano)",
+        "Thomas Mühlenz",
+        "Pierre Kaffer"
+      ],
+      "leftReview": [
+        "Ryan Bensley",
+        "Toby Sowery",
+        "Thomas Fleming",
+        "Valentino Rossi",
+        "Sacha Bottemanne",
+        "Martin Bruhat",
+        "Johan Akkerman",
+        "Misha Goikhberg",
+        "Didier André",
+        "Michael Simpson",
+        "Shek Fai Edgar Lau",
+        "Bernd Michael Mayländer",
+        "Daniel Mancinelli",
+        "Michael Keohane",
+        "Daniil Move",
+        "Mika Salo",
+        "Gildardo Herrera",
+        "Emmanuel Guigou",
+        "Stephane Kox",
+        "Bastien Chesaux",
+        "Derek Ware",
+        "Broc Feeney",
+        "Julien Briche",
+        "Buddy Rice",
+        "Doriane Pin",
+        "Michael Vergers",
+        "Ben Dörr",
+        "Constantin Dressler",
+        "Eric Helary",
+        "Cristian Pescatori",
+        "Sebastian Kornely",
+        "Paul Lanchere",
+        "Jordan Ramon",
+        "Olivier Panis",
+        "Benny Simonsen",
+        "Dustin Blattner",
+        "Sennan Fielding",
+        "Dean Stoneman",
+        "Owen Trinkler",
+        "Gray Newell",
+        "Lucas Wolf",
+        "Aurelien Panis",
+        "Eduardo Barrichello",
+        "Morio Nitta",
+        "Aaron Cameron",
+        "Jarrod Waberski",
+        "Pierre Castelein",
+        "Massimiliano Wiser",
+        "Christian Fittipaldi",
+        "Ro Charlz",
+        "Tim Tramnitz",
+        "Christopher Salkeld",
+        "Ian Aguilera",
+        "Benjamin Pedersen",
+        "John Ingram",
+        "Jose Pedro Fontes",
+        "Luca Engstler",
+        "Christopher Allen",
+        "Vesko Kozarov",
+        "Nicolas Pino (Nico Pino)",
+        "Dane Cameron",
+        "Mike Robinson",
+        "Kristian Poulsen",
+        "Demitria Chalkias",
+        "Matej Konopka",
+        "Sami Meguetounif",
+        "Jordan Love",
+        "Jonny Edgar",
+        "Parker Thompson",
+        "Francisco Viel bugliotti",
+        "Duncan Huisman",
+        "Ulric Amado",
+        "José Manuel Urcera (Manu)",
+        "Alex Waters",
+        "Eric Zitza",
+        "Peter Dempsey",
+        "Richard Heistand",
+        "Lilou Wadoux ducellier (LWD)",
+        "Sean Gelael",
+        "Giorgio Mondini",
+        "Stéphane Ortelli",
+        "James Walker",
+        "Oliver Caldwell (Olli Caldwell)",
+        "Claudia Huertgen",
+        "Marcello Zani",
+        "Tim Heinemann",
+        "Michele Beretta",
+        "Laurent Hurgon",
+        "Dean Fiore",
+        "Griffin Peebles",
+        "Jaroslav Honzík",
+        "Steve Caroli",
+        "Christoph Malbertz",
+        "Elton Julian",
+        "Nicholas Cristofaro",
+        "Rino Mastronardi",
+        "Maurizio Mediani",
+        "Christian Brooks",
+        "Zhiwei Lu",
+        "Arkin Aka",
+        "Casey Dennis",
+        "Mathys Jaubert",
+        "Tyler Hoffman",
+        "Emilie Alberny (Émilie Villa)",
+        "Jarett Andretti",
+        "Stefan Mücke",
+        "Sam Collins",
+        "David Terrien",
+        "Kay Van Berlo",
+        "Himar Acosta cabrera",
+        "Philip Hanson",
+        "David Zollinger",
+        "Anthony Beltoise",
+        "Rao Yu",
+        "Aaron Love",
+        "Iradj Alexander david",
+        "Jose Cautela",
+        "Kai Allen",
+        "Rory Penttinen",
+        "Matthias Lodi",
+        "Salih Yoluc",
+        "Jacques Villeneuve",
+        "Marius Aigner",
+        "Freddie Hunt",
+        "Norman Nato",
+        "Bertrand Godin",
+        "Colin Caresani",
+        "Adrian Lewandowski",
+        "Atsushi Miyake",
+        "Maksym Miller (Max Miller)",
+        "Hiroki Katoh",
+        "Nobuteru Taniguchi",
+        "Ben Tuck",
+        "Marco Bonanomi",
+        "François Kirmann",
+        "Chris Wilson",
+        "Mattia Tremolada",
+        "Christophe Bouchut",
+        "Aleksandrs Bobrovs",
+        "Brodie Kostecki",
+        "Nattanid Leewattanavalagul (Kat lee)",
+        "Vincenzo Sospiri",
+        "Jean-Philippe Belloc",
+        "Jamie Orton",
+        "Jj Lehto (Jyrki Järvilehto)",
+        "Trent Grubel",
+        "Max Hesse",
+        "Mathieu Castelein",
+        "Evgenii Leonov",
+        "Erik Johansson",
+        "Hugo Cook",
+        "Jamie Morrow",
+        "Laurin Heinrich",
+        "Emmanuel Collard",
+        "Kenzie-reiss Beecroft",
+        "Riccardo Pera",
+        "Tatsuya Osaki",
+        "Eliseo Donno",
+        "Cindy Gudet",
+        "Joseph Loake",
+        "Julien Andlauer",
+        "Trent Harrison",
+        "Rocco Mazzola",
+        "Yifei Ye",
+        "Alban Varutti",
+        "Diego Gomes Nunes (Diego Nunes)",
+        "Christian Menzel",
+        "Matt Neal",
+        "Jack Mitchell",
+        "Florian Strauß",
+        "Dennis Lind",
+        "Jonathan Hirschi",
+        "Matthew Payne",
+        "LOIC VILLIGER (LVI)",
+        "Kobe Pauwels",
+        "Charles Bateman",
+        "Jeffery Gordon",
+        "Fabian Schiller",
+        "Melvin Moh",
+        "Maciej Bernacik",
+        "Richard Lyons"
+      ],
+      "enteredReviewDetail": [
+        {
+          "name": "Matthew Cresci",
+          "grade": "silver"
+        },
+        {
+          "name": "Phil Ingram",
+          "grade": "silver"
+        },
+        {
+          "name": "Lindsay Brewer",
+          "grade": "silver"
+        },
+        {
+          "name": "Hubert Darmetko",
+          "grade": "silver"
+        },
+        {
+          "name": "Vincent Capillaire",
+          "grade": "silver"
+        },
+        {
+          "name": "Cody Ellsworth",
+          "grade": "silver"
+        },
+        {
+          "name": "Alessandro Balzan",
+          "grade": "gold"
+        },
+        {
+          "name": "Timo Bernhard",
+          "grade": "platinum"
+        },
+        {
+          "name": "Aaron Nash",
+          "grade": "silver"
+        },
+        {
+          "name": "Tadas Karlinskas",
+          "grade": "silver"
+        },
+        {
+          "name": "Pippa Mann",
+          "grade": "silver"
+        },
+        {
+          "name": "Paul Lafargue",
+          "grade": "silver"
+        },
+        {
+          "name": "Marco Zipoli",
+          "grade": "silver"
+        },
+        {
+          "name": "Lenoir Philippe",
+          "grade": "silver"
+        },
+        {
+          "name": "Kyle Marcelli",
+          "grade": "gold"
+        },
+        {
+          "name": "Aleksei Basov",
+          "grade": "silver"
+        },
+        {
+          "name": "Emil Bernstorff",
+          "grade": "gold"
+        },
+        {
+          "name": "Ineichen Rolf",
+          "grade": "silver"
+        },
+        {
+          "name": "Thiago Camilo",
+          "grade": "gold"
+        },
+        {
+          "name": "Lucas Sugliano",
+          "grade": "silver"
+        },
+        {
+          "name": "Sabino Marco De Castro",
+          "grade": "silver"
+        },
+        {
+          "name": "Andrew Pinkerton",
+          "grade": "silver"
+        },
+        {
+          "name": "Simona De Silvestro",
+          "grade": "gold"
+        },
+        {
+          "name": "Jordan Boisson",
+          "grade": "silver"
+        },
+        {
+          "name": "Cesar Ramos",
+          "grade": "gold"
+        },
+        {
+          "name": "Allam Khodair",
+          "grade": "gold"
+        },
+        {
+          "name": "Paul Holton",
+          "grade": "gold"
+        },
+        {
+          "name": "Jesse Dixon",
+          "grade": "silver"
+        },
+        {
+          "name": "Joao Barbosa",
+          "grade": "gold"
+        },
+        {
+          "name": "Carrie Schreiner",
+          "grade": "silver"
+        },
+        {
+          "name": "Townsend Bell",
+          "grade": "gold"
+        },
+        {
+          "name": "Steve Brown (Steve Alvarez Brown)",
+          "grade": "silver"
+        },
+        {
+          "name": "Maxx Ebenal",
+          "grade": "silver"
+        },
+        {
+          "name": "Alexandre Imperatori",
+          "grade": "gold"
+        },
+        {
+          "name": "Erika Hoffmann",
+          "grade": "silver"
+        },
+        {
+          "name": "Bailey Love",
+          "grade": "silver"
+        },
+        {
+          "name": "Andrea Ceccato",
+          "grade": "silver"
+        },
+        {
+          "name": "Jon Lancaster",
+          "grade": "gold"
+        },
+        {
+          "name": "Akhil Agarwal",
+          "grade": "silver"
+        },
+        {
+          "name": "Andrew Kim",
+          "grade": "silver"
+        },
+        {
+          "name": "Alex Yoong",
+          "grade": "gold"
+        },
+        {
+          "name": "Francesco Provenzano (Frankie Provenzano)",
+          "grade": "silver"
+        },
+        {
+          "name": "Thomas Mühlenz",
+          "grade": "silver"
+        },
+        {
+          "name": "Pierre Kaffer",
+          "grade": "gold"
+        }
+      ],
+      "leftReviewDetail": [
+        {
+          "name": "Ryan Bensley",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Toby Sowery",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Thomas Fleming",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Valentino Rossi",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Sacha Bottemanne",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Martin Bruhat",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Johan Akkerman",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Misha Goikhberg",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Didier André",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Michael Simpson",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Shek Fai Edgar Lau",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Bernd Michael Mayländer",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Daniel Mancinelli",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "Michael Keohane",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Daniil Move",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Mika Salo",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Gildardo Herrera",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Emmanuel Guigou",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Stephane Kox",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Bastien Chesaux",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Derek Ware",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Broc Feeney",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "Julien Briche",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Buddy Rice",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Doriane Pin",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Michael Vergers",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Ben Dörr",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Constantin Dressler",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Eric Helary",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Cristian Pescatori",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Sebastian Kornely",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Paul Lanchere",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Jordan Ramon",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Olivier Panis",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Benny Simonsen",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Dustin Blattner",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Sennan Fielding",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Dean Stoneman",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Owen Trinkler",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Gray Newell",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Lucas Wolf",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Aurelien Panis",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Eduardo Barrichello",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Morio Nitta",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Aaron Cameron",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Jarrod Waberski",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Pierre Castelein",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Massimiliano Wiser",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Christian Fittipaldi",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "Ro Charlz",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Tim Tramnitz",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Christopher Salkeld",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Ian Aguilera",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Benjamin Pedersen",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "John Ingram",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Jose Pedro Fontes",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Luca Engstler",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "Christopher Allen",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Vesko Kozarov",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Nicolas Pino (Nico Pino)",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Dane Cameron",
+          "from": "platinum",
+          "to": "platinum"
+        },
+        {
+          "name": "Mike Robinson",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Kristian Poulsen",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Demitria Chalkias",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Matej Konopka",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Sami Meguetounif",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Jordan Love",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "Jonny Edgar",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Parker Thompson",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Francisco Viel bugliotti",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Duncan Huisman",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Ulric Amado",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "José Manuel Urcera (Manu)",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Alex Waters",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Eric Zitza",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Peter Dempsey",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Richard Heistand",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Lilou Wadoux ducellier (LWD)",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Sean Gelael",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Giorgio Mondini",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Stéphane Ortelli",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "James Walker",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Oliver Caldwell (Olli Caldwell)",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "Claudia Huertgen",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Marcello Zani",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Tim Heinemann",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "Michele Beretta",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Laurent Hurgon",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Dean Fiore",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Griffin Peebles",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Jaroslav Honzík",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Steve Caroli",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Christoph Malbertz",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Elton Julian",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Nicholas Cristofaro",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Rino Mastronardi",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Maurizio Mediani",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Christian Brooks",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Zhiwei Lu",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Arkin Aka",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Casey Dennis",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Mathys Jaubert",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Tyler Hoffman",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Emilie Alberny (Émilie Villa)",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Jarett Andretti",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Stefan Mücke",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "Sam Collins",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "David Terrien",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Kay Van Berlo",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "Himar Acosta cabrera",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Philip Hanson",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "David Zollinger",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Anthony Beltoise",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Rao Yu",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Aaron Love",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "Iradj Alexander david",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Jose Cautela",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Kai Allen",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "Rory Penttinen",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Matthias Lodi",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Salih Yoluc",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Jacques Villeneuve",
+          "from": "platinum",
+          "to": "platinum"
+        },
+        {
+          "name": "Marius Aigner",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Freddie Hunt",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Norman Nato",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "Bertrand Godin",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Colin Caresani",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Adrian Lewandowski",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Atsushi Miyake",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Maksym Miller (Max Miller)",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Hiroki Katoh",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Nobuteru Taniguchi",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Ben Tuck",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Marco Bonanomi",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "François Kirmann",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Chris Wilson",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Mattia Tremolada",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Christophe Bouchut",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Aleksandrs Bobrovs",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Brodie Kostecki",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "Nattanid Leewattanavalagul (Kat lee)",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Vincenzo Sospiri",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Jean-Philippe Belloc",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Jamie Orton",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Jj Lehto (Jyrki Järvilehto)",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Trent Grubel",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Max Hesse",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "Mathieu Castelein",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Evgenii Leonov",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Erik Johansson",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Hugo Cook",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Jamie Morrow",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Laurin Heinrich",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "Emmanuel Collard",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Kenzie-reiss Beecroft",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Riccardo Pera",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Tatsuya Osaki",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Eliseo Donno",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "Cindy Gudet",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Joseph Loake",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Julien Andlauer",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "Trent Harrison",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Rocco Mazzola",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Yifei Ye",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "Alban Varutti",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Diego Gomes Nunes (Diego Nunes)",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Christian Menzel",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Matt Neal",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Jack Mitchell",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Florian Strauß",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Dennis Lind",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "Jonathan Hirschi",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Matthew Payne",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "LOIC VILLIGER (LVI)",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Kobe Pauwels",
+          "from": "silver",
+          "to": "silver"
+        },
+        {
+          "name": "Charles Bateman",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Jeffery Gordon",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "Fabian Schiller",
+          "from": "gold",
+          "to": "gold"
+        },
+        {
+          "name": "Melvin Moh",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Maciej Bernacik",
+          "from": "bronze",
+          "to": "bronze"
+        },
+        {
+          "name": "Richard Lyons",
+          "from": "gold",
+          "to": "gold"
+        }
+      ]
+    },
+    {
       "version": "2026-09-05",
       "publishedAt": "2026-09-05T09:32:07",
       "driverCount": 7747,
