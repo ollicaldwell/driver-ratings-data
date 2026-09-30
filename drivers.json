@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-20",
+  "lastUpdated": "2026-09-30",
   "source": "FIA public categorisation feed, cross-checked against public-drivers-list-2026-2.pdf",
-  "driverCount": 7764,
-  "totalInSource": 7761,
+  "driverCount": 7781,
+  "totalInSource": 7777,
   "subset": null,
   "drivers": [
     {
@@ -2418,6 +2418,18 @@
       "nextCategoryDate": null
     },
     {
+      "lastName": "Andersson",
+      "lastNameNote": null,
+      "firstName": "Andreas",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Sweden",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
       "lastName": "Andlauer",
       "lastNameNote": null,
       "firstName": "Julien",
@@ -3241,7 +3253,7 @@
       "searchAlias": null,
       "nationality": "France",
       "category": "silver",
-      "underInvestigation": false,
+      "underInvestigation": true,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -4153,6 +4165,18 @@
       "searchAlias": null,
       "nationality": "United States",
       "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Bäck",
+      "lastNameNote": null,
+      "firstName": "Ludvig",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Sweden",
+      "category": "silver",
       "underInvestigation": false,
       "nextCategory": null,
       "nextCategoryDate": null
@@ -10074,6 +10098,18 @@
       "nextCategoryDate": null
     },
     {
+      "lastName": "Bristot",
+      "lastNameNote": null,
+      "firstName": "Andrea",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Italy",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
       "lastName": "Brito Filho",
       "lastNameNote": null,
       "firstName": "Valdeno",
@@ -12708,6 +12744,18 @@
       "firstNameNote": null,
       "searchAlias": null,
       "nationality": "Netherlands",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Caretti",
+      "lastNameNote": null,
+      "firstName": "Rayan",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
       "nextCategory": null,
@@ -17118,6 +17166,18 @@
       "nextCategoryDate": null
     },
     {
+      "lastName": "Cotty",
+      "lastNameNote": null,
+      "firstName": "Emily",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United Kingdom",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
       "lastName": "Couasnon",
       "lastNameNote": null,
       "firstName": "Pierre",
@@ -17232,6 +17292,18 @@
       "firstNameNote": null,
       "searchAlias": null,
       "nationality": "Australia",
+      "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Cowens",
+      "lastNameNote": null,
+      "firstName": "Christoff",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United Kingdom",
       "category": "bronze",
       "underInvestigation": false,
       "nextCategory": null,
@@ -20713,6 +20785,18 @@
       "searchAlias": null,
       "nationality": "United States",
       "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Diaz",
+      "lastNameNote": null,
+      "firstName": "Joao",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Brazil",
+      "category": "silver",
       "underInvestigation": false,
       "nextCategory": null,
       "nextCategoryDate": null
@@ -28446,6 +28530,18 @@
       "nextCategoryDate": null
     },
     {
+      "lastName": "Gaspar",
+      "lastNameNote": null,
+      "firstName": "Miguel",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Portugal",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
       "lastName": "Gasparini",
       "lastNameNote": null,
       "firstName": "Michele",
@@ -32808,6 +32904,18 @@
       "firstNameNote": null,
       "searchAlias": null,
       "nationality": "United States",
+      "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Haglöf",
+      "lastNameNote": null,
+      "firstName": "Daniel",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Sweden",
       "category": "bronze",
       "underInvestigation": false,
       "nextCategory": null,
@@ -40182,6 +40290,18 @@
       "nextCategoryDate": null
     },
     {
+      "lastName": "Jorge ventura",
+      "lastNameNote": null,
+      "firstName": "Simão",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Portugal",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
       "lastName": "Joseph",
       "lastNameNote": null,
       "firstName": "Quentin",
@@ -44970,6 +45090,18 @@
       "nextCategoryDate": null
     },
     {
+      "lastName": "Kucharczyk",
+      "lastNameNote": null,
+      "firstName": "Tymek",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Poland",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
       "lastName": "Kuhn",
       "lastNameNote": null,
       "firstName": "Christian",
@@ -46281,6 +46413,18 @@
       "lastName": "Landy",
       "lastNameNote": null,
       "firstName": "Sebastian",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United States",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Laney",
+      "lastNameNote": null,
+      "firstName": "Talon",
       "firstNameNote": null,
       "searchAlias": null,
       "nationality": "United States",
@@ -50281,6 +50425,18 @@
       "searchAlias": null,
       "nationality": "Germany",
       "category": "gold",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Lukas",
+      "lastNameNote": null,
+      "firstName": "Robert",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Poland",
+      "category": "silver",
       "underInvestigation": false,
       "nextCategory": null,
       "nextCategoryDate": null
@@ -60733,6 +60889,18 @@
       "searchAlias": null,
       "nationality": "Japan",
       "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Nogue",
+      "lastNameNote": null,
+      "firstName": "Aleix",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Spain",
+      "category": "silver",
       "underInvestigation": false,
       "nextCategory": null,
       "nextCategoryDate": null
@@ -78366,6 +78534,18 @@
       "nextCategoryDate": null
     },
     {
+      "lastName": "Sofronas",
+      "lastNameNote": null,
+      "firstName": "Jenson",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United States",
+      "category": null,
+      "underInvestigation": false,
+      "nextCategory": "silver",
+      "nextCategoryDate": "2026-10-06"
+    },
+    {
       "lastName": "Soglaev",
       "lastNameNote": null,
       "firstName": "Denis",
@@ -78841,6 +79021,18 @@
       "searchAlias": null,
       "nationality": "Poland",
       "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Spinks",
+      "lastNameNote": null,
+      "firstName": "Jonathan",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United Kingdom",
+      "category": "bronze",
       "underInvestigation": false,
       "nextCategory": null,
       "nextCategoryDate": null
@@ -90265,6 +90457,18 @@
       "searchAlias": null,
       "nationality": "Germany",
       "category": "platinum",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Winroth",
+      "lastNameNote": null,
+      "firstName": "Christopher",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Sweden",
+      "category": "bronze",
       "underInvestigation": false,
       "nextCategory": null,
       "nextCategoryDate": null

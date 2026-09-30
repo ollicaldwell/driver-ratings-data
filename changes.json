@@ -1,6 +1,50 @@
 {
   "updates": [
     {
+      "version": "2026-09-30",
+      "publishedAt": "2026-09-30T10:50:18",
+      "driverCount": 7781,
+      "counts": {
+        "added": 17,
+        "removed": 0,
+        "gradeChanges": 0,
+        "enteredReview": 1,
+        "leftReview": 0
+      },
+      "gradeChanges": [],
+      "added": [
+        "Tymek Kucharczyk",
+        "Joao Diaz",
+        "Andrea Bristot",
+        "Aleix Nogue",
+        "Rayan Caretti",
+        "Ludvig Bäck",
+        "Christopher Winroth",
+        "Talon Laney",
+        "Christoff Cowens",
+        "Miguel Gaspar",
+        "Jonathan Spinks",
+        "Robert Lukas",
+        "Daniel Haglöf",
+        "Andreas Andersson",
+        "Emily Cotty",
+        "Jenson Sofronas",
+        "Simão Jorge ventura"
+      ],
+      "removed": [],
+      "enteredReview": [
+        "Nicolas Armindo"
+      ],
+      "leftReview": [],
+      "enteredReviewDetail": [
+        {
+          "name": "Nicolas Armindo",
+          "grade": "silver"
+        }
+      ],
+      "leftReviewDetail": []
+    },
+    {
       "version": "2026-09-20",
       "publishedAt": "2026-09-20T12:19:22",
       "driverCount": 7764,
