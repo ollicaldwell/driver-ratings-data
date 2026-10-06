@@ -1,6 +1,61 @@
 {
   "updates": [
     {
+      "version": "2026-10-06",
+      "publishedAt": "2026-10-06T11:56:07",
+      "driverCount": 7800,
+      "counts": {
+        "added": 21,
+        "removed": 2,
+        "gradeChanges": 2,
+        "enteredReview": 0,
+        "leftReview": 0
+      },
+      "gradeChanges": [
+        {
+          "name": "Nattanan Puretongkam",
+          "from": null,
+          "to": "silver"
+        },
+        {
+          "name": "Jenson Sofronas",
+          "from": null,
+          "to": "silver"
+        }
+      ],
+      "added": [
+        "Felix Livesey",
+        "Kelvin Hassell",
+        "Luke Kendall",
+        "Denis Robin Wolf",
+        "Changuk Lee",
+        "José Rodrigues",
+        "Jason Daskalos",
+        "Nantaphan Sirisarittharakul (Shunji Maeda)",
+        "Ádám Krisztián Hideg-Szikszai",
+        "Jungwoo Lee",
+        "Oliver Kratsch",
+        "Grant Mitchell",
+        "Glen Ebert",
+        "Pascal Tichit",
+        "Jakub Litwin",
+        "Lucas Rowell",
+        "Pearce Wade",
+        "Louis Sharp",
+        "Christian Cameron",
+        "Zain Khan",
+        "Marcus Trotzenberg"
+      ],
+      "removed": [
+        "Peter Fitzgerald",
+        "Tim Miles"
+      ],
+      "enteredReview": [],
+      "leftReview": [],
+      "enteredReviewDetail": [],
+      "leftReviewDetail": []
+    },
+    {
       "version": "2026-09-30",
       "publishedAt": "2026-09-30T10:50:18",
       "driverCount": 7781,

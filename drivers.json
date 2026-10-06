@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-30",
+  "lastUpdated": "2026-10-06",
   "source": "FIA public categorisation feed, cross-checked against public-drivers-list-2026-2.pdf",
-  "driverCount": 7781,
-  "totalInSource": 7777,
+  "driverCount": 7800,
+  "totalInSource": 7796,
   "subset": null,
   "drivers": [
     {
@@ -302,8 +302,8 @@
       "nationality": "Norway",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Abramczyk",
@@ -410,8 +410,8 @@
       "nationality": "Spain",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Acosta Hinojosa",
@@ -650,8 +650,8 @@
       "nationality": "India",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Aghakhani",
@@ -734,8 +734,8 @@
       "nationality": "Mexico",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Aguirre",
@@ -794,8 +794,8 @@
       "nationality": "Austria",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Aimable",
@@ -866,8 +866,8 @@
       "nationality": "Germany",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Akane",
@@ -938,8 +938,8 @@
       "nationality": "Thailand",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Akkerman",
@@ -950,8 +950,8 @@
       "nationality": "Netherlands",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Al-abdulghani",
@@ -1118,8 +1118,8 @@
       "nationality": "France",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Albers",
@@ -1358,8 +1358,8 @@
       "nationality": "Switzerland",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Alexandridis",
@@ -1610,8 +1610,8 @@
       "nationality": "United States",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Allen",
@@ -1646,8 +1646,8 @@
       "nationality": "Australia",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Allen",
@@ -2090,8 +2090,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Amaduzzi",
@@ -2438,8 +2438,8 @@
       "nationality": "France",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "platinum",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Ando",
@@ -2486,8 +2486,8 @@
       "nationality": "France",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Andre",
@@ -2510,8 +2510,8 @@
       "nationality": "United States",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Andretti",
@@ -2582,8 +2582,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Andriske",
@@ -3530,8 +3530,8 @@
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Asiralertsiri",
@@ -4694,8 +4694,8 @@
       "nationality": "Italy",
       "category": "gold",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Bamba",
@@ -4958,8 +4958,8 @@
       "nationality": "Portugal",
       "category": "gold",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Barbosa ferreira",
@@ -5222,8 +5222,8 @@
       "nationality": "Brazil",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Barrichello",
@@ -5450,8 +5450,8 @@
       "nationality": "Russian Federation",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Basseng",
@@ -5546,8 +5546,8 @@
       "nationality": "Germany",
       "category": "gold",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Bastide",
@@ -5606,8 +5606,8 @@
       "nationality": "United Kingdom",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Bates",
@@ -5654,8 +5654,8 @@
       "nationality": "France",
       "category": "bronze",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Batina",
@@ -6086,8 +6086,8 @@
       "nationality": "United Kingdom",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Beelen",
@@ -6194,8 +6194,8 @@
       "nationality": "Portugal",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Bejarano Campos",
@@ -6314,8 +6314,8 @@
       "nationality": "United States",
       "category": "gold",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Bellanger",
@@ -6362,8 +6362,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Bellomo",
@@ -6434,8 +6434,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Beltoise",
@@ -6722,8 +6722,8 @@
       "nationality": "United Kingdom",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Bentley",
@@ -6818,8 +6818,8 @@
       "nationality": "Italy",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Beretta",
@@ -7010,8 +7010,8 @@
       "nationality": "Poland",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Bernard",
@@ -7094,8 +7094,8 @@
       "nationality": "Germany",
       "category": "platinum",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Bernier",
@@ -7154,8 +7154,8 @@
       "nationality": "United Kingdom",
       "category": "gold",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Berreby",
@@ -8126,8 +8126,8 @@
       "nationality": "United States",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Bleekemolen",
@@ -8258,8 +8258,8 @@
       "nationality": "Finland",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Blomqvist",
@@ -8366,8 +8366,8 @@
       "nationality": "Latvia",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Boccolacci",
@@ -8378,8 +8378,8 @@
       "nationality": "France",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Bochez",
@@ -8618,8 +8618,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Bolduc",
@@ -8774,8 +8774,8 @@
       "nationality": "Italy",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Bonduel",
@@ -9158,8 +9158,8 @@
       "nationality": "France",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Bottiroli",
@@ -9218,8 +9218,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Bouhet",
@@ -9938,8 +9938,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Breysse",
@@ -9998,8 +9998,8 @@
       "nationality": "France",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Brickley",
@@ -10034,8 +10034,8 @@
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "BRIERE",
@@ -10238,8 +10238,8 @@
       "nationality": "Australia",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Brookes",
@@ -10262,8 +10262,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Brooks",
@@ -10406,8 +10406,8 @@
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Brown",
@@ -10430,8 +10430,8 @@
       "nationality": "Australia",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "platinum",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Brown",
@@ -10526,8 +10526,8 @@
       "nationality": "United States",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Bruins",
@@ -10706,8 +10706,8 @@
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Bryant",
@@ -11042,8 +11042,8 @@
       "nationality": "United Kingdom",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Buncombe",
@@ -11402,8 +11402,8 @@
       "nationality": "Belgium",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Busk",
@@ -11438,8 +11438,8 @@
       "nationality": "Italy",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Bustami",
@@ -11546,8 +11546,8 @@
       "nationality": "Netherlands",
       "category": "platinum",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "platinum",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Buus",
@@ -11810,8 +11810,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Caldarelli",
@@ -11846,8 +11846,8 @@
       "nationality": "United Kingdom",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Calendini",
@@ -12014,8 +12014,8 @@
       "nationality": "Australia",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Cameron",
@@ -12032,14 +12032,26 @@
     {
       "lastName": "Cameron",
       "lastNameNote": null,
+      "firstName": "Christian",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United States",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Cameron",
+      "lastNameNote": null,
       "firstName": "Dane",
       "firstNameNote": null,
       "searchAlias": null,
       "nationality": "United States",
       "category": "platinum",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "platinum",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Cameron",
@@ -12074,8 +12086,8 @@
       "nationality": "Australia",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Camilo",
@@ -12086,8 +12098,8 @@
       "nationality": "Brazil",
       "category": "gold",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Cammish",
@@ -12122,8 +12134,8 @@
       "nationality": "Italy",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Campanico",
@@ -12266,8 +12278,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Canapino",
@@ -12506,8 +12518,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Capirossi",
@@ -12554,8 +12566,8 @@
       "nationality": "Australia",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Cappello",
@@ -12746,8 +12758,8 @@
       "nationality": "Netherlands",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Caretti",
@@ -12878,8 +12890,8 @@
       "nationality": "Germany",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Caroline",
@@ -13310,8 +13322,8 @@
       "nationality": "Belgium",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Castelein",
@@ -13322,8 +13334,8 @@
       "nationality": "Belgium",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Castellacci",
@@ -13574,8 +13586,8 @@
       "nationality": "Portugal",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Cauvas",
@@ -13718,8 +13730,8 @@
       "nationality": "Italy",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Ceccon",
@@ -13946,8 +13958,8 @@
       "nationality": "Canada",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Chambers",
@@ -14258,8 +14270,8 @@
       "nationality": "France",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Charlz",
@@ -14270,8 +14282,8 @@
       "nationality": "Australia",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Charoensukhawatana",
@@ -14414,8 +14426,8 @@
       "nationality": "United States",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Chaves",
@@ -14654,8 +14666,8 @@
       "nationality": "Switzerland",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Chester",
@@ -14870,8 +14882,8 @@
       "nationality": "Japan",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Chkondali",
@@ -15146,8 +15158,8 @@
       "nationality": "Germany",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Chuang",
@@ -15434,8 +15446,8 @@
       "nationality": "Denmark",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Clair",
@@ -16190,8 +16202,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Collard",
@@ -16286,8 +16298,8 @@
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Collins",
@@ -16322,8 +16334,8 @@
       "nationality": "New Zealand",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Collins",
@@ -16670,8 +16682,8 @@
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Cook",
@@ -17258,8 +17270,8 @@
       "nationality": "Portugal",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Covini",
@@ -17510,8 +17522,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Cresp",
@@ -17654,8 +17666,8 @@
       "nationality": "United Kingdom",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Cristóvão",
@@ -18326,8 +18338,8 @@
       "nationality": "United Kingdom",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Damalas",
@@ -18530,8 +18542,8 @@
       "nationality": "Poland",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Darmetko",
@@ -18578,8 +18590,8 @@
       "nationality": "Malaysia",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Das",
@@ -18609,6 +18621,18 @@
       "lastName": "Dasilva",
       "lastNameNote": null,
       "firstName": "Jose",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United States",
+      "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Daskalos",
+      "lastNameNote": null,
+      "firstName": "Jason",
       "firstNameNote": null,
       "searchAlias": null,
       "nationality": "United States",
@@ -18914,8 +18938,8 @@
       "nationality": "United Kingdom",
       "category": "bronze",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Dawson",
@@ -19058,8 +19082,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Dean",
@@ -19298,8 +19322,8 @@
       "nationality": "Italy",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Decultot",
@@ -20018,8 +20042,8 @@
       "nationality": "Ireland",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "De narda",
@@ -20162,8 +20186,8 @@
       "nationality": "United States",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Dennis",
@@ -20462,8 +20486,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Desgranges",
@@ -20498,8 +20522,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "De Silvestro",
@@ -20510,8 +20534,8 @@
       "nationality": "Switzerland",
       "category": "gold",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "De smit",
@@ -21122,8 +21146,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Dinan",
@@ -21302,8 +21326,8 @@
       "nationality": "Australia",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Dixon",
@@ -21530,8 +21554,8 @@
       "nationality": "Italy",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Donohue",
@@ -21638,8 +21662,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Dorison",
@@ -21674,8 +21698,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Dorlin",
@@ -21698,8 +21722,8 @@
       "nationality": "Germany",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Dörrbecker",
@@ -21806,8 +21830,8 @@
       "nationality": "Ireland",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Doyle-parfait",
@@ -21878,8 +21902,8 @@
       "nationality": "Germany",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Dreszer",
@@ -22658,8 +22682,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Dymond",
@@ -22826,6 +22850,18 @@
       "nationality": "Canada",
       "category": "silver",
       "underInvestigation": true,
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
+    },
+    {
+      "lastName": "Ebert",
+      "lastNameNote": null,
+      "firstName": "Glen",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Australia",
+      "category": "bronze",
+      "underInvestigation": false,
       "nextCategory": null,
       "nextCategoryDate": null
     },
@@ -22970,8 +23006,8 @@
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Edgar",
@@ -23018,8 +23054,8 @@
       "nationality": "United States",
       "category": "platinum",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Edwards",
@@ -23282,8 +23318,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Elias",
@@ -23414,8 +23450,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Elman",
@@ -23630,8 +23666,8 @@
       "nationality": "Germany",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Engström",
@@ -24734,8 +24770,8 @@
       "nationality": "Germany",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Fattorini",
@@ -24902,8 +24938,8 @@
       "nationality": "Australia",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Feige",
@@ -25250,8 +25286,8 @@
       "nationality": "Italy",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Ferrari",
@@ -25550,8 +25586,8 @@
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Fielenbach",
@@ -25742,8 +25778,8 @@
       "nationality": "Australia",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Fischbaum",
@@ -25838,8 +25874,8 @@
       "nationality": "Brazil",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Fittipaldi",
@@ -25873,18 +25909,6 @@
       "searchAlias": null,
       "nationality": "Germany",
       "category": "silver",
-      "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
-    },
-    {
-      "lastName": "Fitzgerald",
-      "lastNameNote": null,
-      "firstName": "Peter",
-      "firstNameNote": null,
-      "searchAlias": null,
-      "nationality": "Australia",
-      "category": "bronze",
       "underInvestigation": false,
       "nextCategory": null,
       "nextCategoryDate": null
@@ -26042,8 +26066,8 @@
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Fleschhut",
@@ -26426,8 +26450,8 @@
       "nationality": "Portugal",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Forbush",
@@ -26654,8 +26678,8 @@
       "nationality": "Australia",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Foster",
@@ -26666,8 +26690,8 @@
       "nationality": "United Kingdom",
       "category": "gold",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Foster",
@@ -26726,8 +26750,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Fouracre",
@@ -27290,8 +27314,8 @@
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Froio",
@@ -27902,8 +27926,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Gafurov",
@@ -28142,8 +28166,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Gamou",
@@ -28622,8 +28646,8 @@
       "nationality": "Denmark",
       "category": "gold",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Gatto",
@@ -28850,8 +28874,8 @@
       "nationality": "Indonesia",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Gelf",
@@ -29102,8 +29126,8 @@
       "nationality": "United Arab Emirates",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Gewirtz",
@@ -29810,8 +29834,8 @@
       "nationality": "Argentina",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Gissurarson",
@@ -30074,8 +30098,8 @@
       "nationality": "Canada",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Goerke",
@@ -30194,8 +30218,8 @@
       "nationality": "Canada",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Golan",
@@ -30338,8 +30362,8 @@
       "nationality": "Brazil",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Gomez",
@@ -30590,8 +30614,8 @@
       "nationality": "Belgium",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Gorbatskiy",
@@ -30614,8 +30638,8 @@
       "nationality": "United States",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Gordon-Colebrooke",
@@ -31850,8 +31874,8 @@
       "nationality": "South Africa",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Grosjean",
@@ -31994,8 +32018,8 @@
       "nationality": "Australia",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Gruber",
@@ -32042,8 +32066,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Grütter",
@@ -32126,8 +32150,8 @@
       "nationality": "France",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Gudmundsson",
@@ -32234,8 +32258,8 @@
       "nationality": "Argentina",
       "category": "platinum",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Guerrini",
@@ -32306,8 +32330,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Guillaume",
@@ -32750,8 +32774,8 @@
       "nationality": "South Africa",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Hackett",
@@ -33098,8 +33122,8 @@
       "nationality": "United Kingdom",
       "category": "bronze",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Hall",
@@ -33698,8 +33722,8 @@
       "nationality": "United Kingdom",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "platinum",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Hantke",
@@ -34034,8 +34058,8 @@
       "nationality": "Australia",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Harry",
@@ -34273,6 +34297,18 @@
       "searchAlias": null,
       "nationality": "France",
       "category": "gold",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Hassell",
+      "lastNameNote": null,
+      "firstName": "Kelvin",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United Kingdom",
+      "category": "bronze",
       "underInvestigation": false,
       "nextCategory": null,
       "nextCategoryDate": null
@@ -34754,8 +34790,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Hegelund Thuesen",
@@ -34874,8 +34910,8 @@
       "nationality": "Germany",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Heinemeier hansson",
@@ -34910,8 +34946,8 @@
       "nationality": "Germany",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "platinum",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Heinrich",
@@ -34958,8 +34994,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Heitkotter",
@@ -34982,8 +35018,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Heldmann",
@@ -35282,8 +35318,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Herich",
@@ -35378,8 +35414,8 @@
       "nationality": "Belgium",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Herrera",
@@ -35390,8 +35426,8 @@
       "nationality": "Mexico",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Herrero",
@@ -35498,8 +35534,8 @@
       "nationality": "Germany",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Hessel",
@@ -35652,6 +35688,18 @@
       "firstNameNote": null,
       "searchAlias": null,
       "nationality": "United Kingdom",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Hideg-Szikszai",
+      "lastNameNote": null,
+      "firstName": "Ádám Krisztián",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Hungary",
       "category": "silver",
       "underInvestigation": false,
       "nextCategory": null,
@@ -36074,8 +36122,8 @@
       "nationality": "Switzerland",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Hirschi",
@@ -36434,8 +36482,8 @@
       "nationality": "United States",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Hoffmann",
@@ -36458,8 +36506,8 @@
       "nationality": "Canada",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Hoffmeister",
@@ -36722,8 +36770,8 @@
       "nationality": "United States",
       "category": "gold",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Holzem",
@@ -36830,8 +36878,8 @@
       "nationality": "Czech Republic",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Hoogaars",
@@ -37430,8 +37478,8 @@
       "nationality": "Germany",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Huet",
@@ -37502,8 +37550,8 @@
       "nationality": "Australia",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Hughes",
@@ -37562,8 +37610,8 @@
       "nationality": "Netherlands",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Huisman",
@@ -37634,8 +37682,8 @@
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Hunt",
@@ -37694,8 +37742,8 @@
       "nationality": "France",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Hurley",
@@ -37718,8 +37766,8 @@
       "nationality": "Switzerland",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Hurst",
@@ -37838,8 +37886,8 @@
       "nationality": "United Kingdom",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Iacone",
@@ -38030,8 +38078,8 @@
       "nationality": "Belgium",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Ide",
@@ -38222,8 +38270,8 @@
       "nationality": "Switzerland",
       "category": "gold",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Impey",
@@ -38282,8 +38330,8 @@
       "nationality": "United Kingdom",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Ingram",
@@ -38294,8 +38342,8 @@
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Ingram",
@@ -39230,8 +39278,8 @@
       "nationality": "Luxembourg",
       "category": "bronze",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Jansen",
@@ -39278,8 +39326,8 @@
       "nationality": "United Kingdom",
       "category": "platinum",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "platinum",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Jaskol",
@@ -39314,8 +39362,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Jaxon",
@@ -39842,8 +39890,8 @@
       "nationality": "Sweden",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Johnsen",
@@ -40550,8 +40598,8 @@
       "nationality": "United States",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Julien",
@@ -40802,8 +40850,8 @@
       "nationality": "Germany",
       "category": "gold",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Kageyama",
@@ -41366,8 +41414,8 @@
       "nationality": "Lithuania",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Karlinskas",
@@ -41378,8 +41426,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Karlsson",
@@ -41570,8 +41618,8 @@
       "nationality": "Japan",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Katsimis",
@@ -41678,8 +41726,8 @@
       "nationality": "Japan",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Kawabata",
@@ -41870,8 +41918,8 @@
       "nationality": "Germany",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Kell",
@@ -41906,8 +41954,8 @@
       "nationality": "Germany",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Kellett",
@@ -42090,6 +42138,18 @@
       "nextCategoryDate": null
     },
     {
+      "lastName": "Kendall",
+      "lastNameNote": null,
+      "firstName": "Luke",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United States",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
       "lastName": "Kennard",
       "lastNameNote": null,
       "firstName": "Jonathan",
@@ -42134,8 +42194,8 @@
       "nationality": "Ireland",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Kern",
@@ -42246,6 +42306,18 @@
       "nextCategoryDate": null
     },
     {
+      "lastName": "Khan",
+      "lastNameNote": null,
+      "firstName": "Zain",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United States",
+      "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
       "lastName": "Khandan-Nia",
       "lastNameNote": null,
       "firstName": "Nima",
@@ -42314,8 +42386,8 @@
       "nationality": "Brazil",
       "category": "gold",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Khoo",
@@ -42386,8 +42458,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Kiebler",
@@ -42566,8 +42638,8 @@
       "nationality": "Korea, Republic of",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Kim",
@@ -42974,8 +43046,8 @@
       "nationality": "United States",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "platinum",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Kirmann",
@@ -42986,8 +43058,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Kirsch",
@@ -43070,8 +43142,8 @@
       "nationality": "Russian Federation",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Kjaergaard",
@@ -44042,8 +44114,8 @@
       "nationality": "Slovakia",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Konopka",
@@ -44174,8 +44246,8 @@
       "nationality": "Germany",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Korpivaara",
@@ -44282,8 +44354,8 @@
       "nationality": "Australia",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "platinum",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Kostecki",
@@ -44414,8 +44486,8 @@
       "nationality": "Netherlands",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Koyama",
@@ -44450,8 +44522,8 @@
       "nationality": "Bulgaria",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Kraav",
@@ -44604,6 +44676,18 @@
       "firstNameNote": null,
       "searchAlias": null,
       "nationality": "Russian Federation",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Kratsch",
+      "lastNameNote": null,
+      "firstName": "Oliver",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Germany",
       "category": "silver",
       "underInvestigation": false,
       "nextCategory": null,
@@ -45158,8 +45242,8 @@
       "nationality": "Switzerland",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Kumar",
@@ -45674,8 +45758,8 @@
       "nationality": "Germany",
       "category": "bronze",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Lackner",
@@ -45854,8 +45938,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Laffite",
@@ -46334,8 +46418,8 @@
       "nationality": "United Kingdom",
       "category": "gold",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Lanchere",
@@ -46346,8 +46430,8 @@
       "nationality": "France",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Lancieri",
@@ -46778,8 +46862,8 @@
       "nationality": "Hong Kong",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Lauck",
@@ -47240,6 +47324,18 @@
     {
       "lastName": "Lee",
       "lastNameNote": null,
+      "firstName": "Changuk",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Korea, Republic of",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Lee",
+      "lastNameNote": null,
       "firstName": "Chang woo",
       "firstNameNote": null,
       "searchAlias": null,
@@ -47305,6 +47401,18 @@
       "searchAlias": null,
       "nationality": "Chinese Taipei",
       "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Lee",
+      "lastNameNote": null,
+      "firstName": "Jungwoo",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Korea, Republic of",
+      "category": "silver",
       "underInvestigation": false,
       "nextCategory": null,
       "nextCategoryDate": null
@@ -47426,8 +47534,8 @@
       "nationality": "Thailand",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Lefevre",
@@ -47546,8 +47654,8 @@
       "nationality": "Finland",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Leib",
@@ -47954,8 +48062,8 @@
       "nationality": "Malta",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Lepesqueux",
@@ -48206,8 +48314,8 @@
       "nationality": "Israel",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Levitt",
@@ -48278,8 +48386,8 @@
       "nationality": "Poland",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Lewandowski",
@@ -48878,8 +48986,8 @@
       "nationality": "Denmark",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Lindberg",
@@ -48998,8 +49106,8 @@
       "nationality": "China",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Link",
@@ -49022,8 +49130,8 @@
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Linossi",
@@ -49194,6 +49302,18 @@
       "nextCategoryDate": null
     },
     {
+      "lastName": "Litwin",
+      "lastNameNote": null,
+      "firstName": "Jakub",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Poland",
+      "category": "bronze",
+      "underInvestigation": true,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
       "lastName": "Liu",
       "lastNameNote": null,
       "firstName": "Craig",
@@ -49273,6 +49393,18 @@
       "searchAlias": null,
       "nationality": "China",
       "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Livesey",
+      "lastNameNote": null,
+      "firstName": "Felix",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United Kingdom",
+      "category": "silver",
       "underInvestigation": false,
       "nextCategory": null,
       "nextCategoryDate": null
@@ -49406,8 +49538,8 @@
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Lobato",
@@ -49514,8 +49646,8 @@
       "nationality": "Italy",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Loefflad",
@@ -50054,8 +50186,8 @@
       "nationality": "Australia",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Love",
@@ -50066,8 +50198,8 @@
       "nationality": "Australia",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Love",
@@ -50078,8 +50210,8 @@
       "nationality": "Australia",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Love",
@@ -50222,8 +50354,8 @@
       "nationality": "China",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Lubin",
@@ -50510,8 +50642,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Lunardi",
@@ -50546,8 +50678,8 @@
       "nationality": "Denmark",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "platinum",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Lundqvist",
@@ -50558,8 +50690,8 @@
       "nationality": "Sweden",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Lungstrass",
@@ -50606,8 +50738,8 @@
       "nationality": "Italy",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Lütke",
@@ -50726,8 +50858,8 @@
       "nationality": "United Kingdom",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Ma",
@@ -51122,8 +51254,8 @@
       "nationality": "Australia",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Madden",
@@ -51134,8 +51266,8 @@
       "nationality": "Australia",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Madsen",
@@ -51590,8 +51722,8 @@
       "nationality": "Germany",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Malcharek",
@@ -51758,8 +51890,8 @@
       "nationality": "Italy",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Malucelli",
@@ -51842,8 +51974,8 @@
       "nationality": "Italy",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Mancuso",
@@ -51914,8 +52046,8 @@
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Mann",
@@ -52106,8 +52238,8 @@
       "nationality": "Canada",
       "category": "gold",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Marchewicz",
@@ -52598,8 +52730,8 @@
       "nationality": "Spain",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Martin",
@@ -52946,8 +53078,8 @@
       "nationality": "Japan",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Mascaro",
@@ -53198,8 +53330,8 @@
       "nationality": "Italy",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Masumoto",
@@ -53798,8 +53930,8 @@
       "nationality": "Germany",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Mayola Comadira",
@@ -53858,8 +53990,8 @@
       "nationality": "Russian Federation",
       "category": "platinum",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "platinum",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Mazur",
@@ -53894,8 +54026,8 @@
       "nationality": "Italy",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Mazzoni",
@@ -54134,8 +54266,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Mccusker",
@@ -54230,8 +54362,8 @@
       "nationality": "New Zealand",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Mcewen",
@@ -54698,8 +54830,8 @@
       "nationality": "Italy",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Medina",
@@ -54794,8 +54926,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Meichtry",
@@ -55166,8 +55298,8 @@
       "nationality": "Germany",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Menzel",
@@ -55514,8 +55646,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Meyer",
@@ -55998,18 +56130,6 @@
       "nextCategoryDate": null
     },
     {
-      "lastName": "Miles",
-      "lastNameNote": null,
-      "firstName": "Tim",
-      "firstNameNote": null,
-      "searchAlias": null,
-      "nationality": "New Zealand",
-      "category": "bronze",
-      "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
-    },
-    {
       "lastName": "Milesi",
       "lastNameNote": null,
       "firstName": "Charles",
@@ -56222,8 +56342,8 @@
       "nationality": "Ukraine",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Miller",
@@ -56390,8 +56510,8 @@
       "nationality": "France",
       "category": "gold",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Mineeff",
@@ -56540,14 +56660,26 @@
     {
       "lastName": "Mitchell",
       "lastNameNote": null,
+      "firstName": "Grant",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United States",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Mitchell",
+      "lastNameNote": null,
       "firstName": "Jack",
       "firstNameNote": null,
       "searchAlias": null,
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Mitchell",
@@ -56618,8 +56750,8 @@
       "nationality": "Japan",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Miyata",
@@ -56786,8 +56918,8 @@
       "nationality": "Malaysia",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Mohr",
@@ -57038,8 +57170,8 @@
       "nationality": "Italy",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Mondolot",
@@ -57902,8 +58034,8 @@
       "nationality": "United Kingdom",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Mortara",
@@ -58286,8 +58418,8 @@
       "nationality": "United States",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Mowle",
@@ -58346,8 +58478,8 @@
       "nationality": "Germany",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Mueller",
@@ -58466,8 +58598,8 @@
       "nationality": "Germany",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Mukovoz",
@@ -58658,8 +58790,8 @@
       "nationality": "France",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Müller-crepon",
@@ -59582,8 +59714,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Nash",
@@ -59654,8 +59786,8 @@
       "nationality": "France",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "platinum",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Natori",
@@ -59822,8 +59954,8 @@
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Neapole",
@@ -60338,8 +60470,8 @@
       "nationality": "United States",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Newey",
@@ -60722,8 +60854,8 @@
       "nationality": "Japan",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Nittel",
@@ -60926,8 +61058,8 @@
       "nationality": "Germany",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Nölken",
@@ -62486,8 +62618,8 @@
       "nationality": "Monaco",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Ortiz",
@@ -62534,8 +62666,8 @@
       "nationality": "United Kingdom",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Orton",
@@ -62570,8 +62702,8 @@
       "nationality": "Japan",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Osborne",
@@ -63050,8 +63182,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Pagni buzaid",
@@ -63350,8 +63482,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Panis",
@@ -63362,8 +63494,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Panu",
@@ -63458,8 +63590,8 @@
       "nationality": "Italy",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Pappas",
@@ -63830,8 +63962,8 @@
       "nationality": "Italy",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Passuti",
@@ -64178,8 +64310,8 @@
       "nationality": "Belgium",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Pavan",
@@ -64262,8 +64394,8 @@
       "nationality": "Serbia",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Payen",
@@ -64286,8 +64418,8 @@
       "nationality": "New Zealand",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Payr",
@@ -64442,8 +64574,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Pedersen",
@@ -64598,8 +64730,8 @@
       "nationality": "Australia",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Pegoraro",
@@ -64742,8 +64874,8 @@
       "nationality": "Finland",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Pentus",
@@ -64790,8 +64922,8 @@
       "nationality": "Italy",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Percat",
@@ -65330,8 +65462,8 @@
       "nationality": "Italy",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Pesek",
@@ -65690,8 +65822,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Pezzucchi",
@@ -65738,8 +65870,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Philippe",
@@ -66278,8 +66410,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Pinazo",
@@ -66350,8 +66482,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Pino",
@@ -66362,8 +66494,8 @@
       "nationality": "Chile",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Pinquier",
@@ -66638,8 +66770,8 @@
       "nationality": "Australia",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Pitamber",
@@ -66758,8 +66890,8 @@
       "nationality": "France",
       "category": "platinum",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "platinum",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Placentino",
@@ -67250,8 +67382,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Porteiro",
@@ -67502,8 +67634,8 @@
       "nationality": "Denmark",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Poulsen",
@@ -67562,8 +67694,8 @@
       "nationality": "Canada",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Powell",
@@ -68198,8 +68330,8 @@
       "nationality": "Italy",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Provost",
@@ -68294,8 +68426,8 @@
       "nationality": "Italy",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Pulcini",
@@ -68376,10 +68508,10 @@
       "firstNameNote": null,
       "searchAlias": null,
       "nationality": "Thailand",
-      "category": null,
+      "category": "silver",
       "underInvestigation": false,
-      "nextCategory": "silver",
-      "nextCategoryDate": "2026-10-05"
+      "nextCategory": null,
+      "nextCategoryDate": null
     },
     {
       "lastName": "Purwotomo",
@@ -69206,8 +69338,8 @@
       "nationality": "France",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Ramos",
@@ -69242,8 +69374,8 @@
       "nationality": "Brazil",
       "category": "gold",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Ramos",
@@ -69626,8 +69758,8 @@
       "nationality": "United States",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Raymondis",
@@ -69674,8 +69806,8 @@
       "nationality": "Poland",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Read",
@@ -70442,8 +70574,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Rice",
@@ -70574,8 +70706,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Richert",
@@ -71198,8 +71330,8 @@
       "nationality": "United Kingdom",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Robinson",
@@ -71378,8 +71510,8 @@
       "nationality": "Italy",
       "category": "bronze",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Rodella",
@@ -71432,14 +71564,26 @@
     {
       "lastName": "Rodrigues",
       "lastNameNote": null,
+      "firstName": "José",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Portugal",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Rodrigues",
+      "lastNameNote": null,
       "firstName": "Julien",
       "firstNameNote": null,
       "searchAlias": null,
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Rodriguez",
@@ -71630,8 +71774,8 @@
       "nationality": "Switzerland",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Rollinson",
@@ -72170,8 +72314,8 @@
       "nationality": "Italy",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Rossiter",
@@ -72230,8 +72374,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Rougier",
@@ -72417,6 +72561,18 @@
       "lastName": "Rowe",
       "lastNameNote": null,
       "firstName": "Myles",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "United States",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Rowell",
+      "lastNameNote": null,
+      "firstName": "Lucas",
       "firstNameNote": null,
       "searchAlias": null,
       "nationality": "United States",
@@ -72722,8 +72878,8 @@
       "nationality": "Australia",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Russell",
@@ -72746,8 +72902,8 @@
       "nationality": "Australia",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Russell",
@@ -73106,8 +73262,8 @@
       "nationality": "Japan",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Sakaguchi",
@@ -73310,8 +73466,8 @@
       "nationality": "United Kingdom",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Sällberg",
@@ -73382,8 +73538,8 @@
       "nationality": "Finland",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Salomone",
@@ -73922,8 +74078,8 @@
       "nationality": "Australia",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Sarhy",
@@ -74870,8 +75026,8 @@
       "nationality": "Germany",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Schirò",
@@ -75110,8 +75266,8 @@
       "nationality": "Germany",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Schmitz",
@@ -75446,8 +75602,8 @@
       "nationality": "Germany",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Schrey",
@@ -75686,8 +75842,8 @@
       "nationality": "Germany",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Schwartz",
@@ -76688,6 +76844,18 @@
     {
       "lastName": "Sharp",
       "lastNameNote": null,
+      "firstName": "Louis",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "New Zealand",
+      "category": "silver",
+      "underInvestigation": true,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Sharp",
+      "lastNameNote": null,
       "firstName": "Ryan",
       "firstNameNote": null,
       "searchAlias": null,
@@ -77642,8 +77810,8 @@
       "nationality": "Denmark",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Simpson",
@@ -77678,8 +77846,8 @@
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Simpson",
@@ -77785,6 +77953,18 @@
       "searchAlias": null,
       "nationality": "Thailand",
       "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Sirisarittharakul",
+      "lastNameNote": "Shunji Maeda",
+      "firstName": "Nantaphan",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Thailand",
+      "category": "silver",
       "underInvestigation": false,
       "nextCategory": null,
       "nextCategoryDate": null
@@ -77930,8 +78110,8 @@
       "nationality": "Australia",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Sladecka",
@@ -78540,10 +78720,10 @@
       "firstNameNote": null,
       "searchAlias": null,
       "nationality": "United States",
-      "category": null,
+      "category": "silver",
       "underInvestigation": false,
-      "nextCategory": "silver",
-      "nextCategoryDate": "2026-10-06"
+      "nextCategory": null,
+      "nextCategoryDate": null
     },
     {
       "lastName": "Soglaev",
@@ -78746,8 +78926,8 @@
       "nationality": "Italy",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Soto-Schirripa",
@@ -78878,8 +79058,8 @@
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Spada",
@@ -79538,8 +79718,8 @@
       "nationality": "Germany",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Stenzl",
@@ -79562,8 +79742,8 @@
       "nationality": "South Africa",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Stephens",
@@ -80006,8 +80186,8 @@
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Storey",
@@ -80126,8 +80306,8 @@
       "nationality": "Germany",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Straus",
@@ -80558,8 +80738,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Sulaiman",
@@ -81734,8 +81914,8 @@
       "nationality": "Japan",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Tanoto",
@@ -82394,8 +82574,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Terry",
@@ -82802,8 +82982,8 @@
       "nationality": "Canada",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Thompson",
@@ -82974,6 +83154,18 @@
       "nextCategoryDate": null
     },
     {
+      "lastName": "Tichit",
+      "lastNameNote": null,
+      "firstName": "Pascal",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "France",
+      "category": "bronze",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
       "lastName": "Tierce",
       "lastNameNote": "coco",
       "firstName": "Corentin",
@@ -83102,8 +83294,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Tirachaimongkol",
@@ -83702,8 +83894,8 @@
       "nationality": "Germany",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Tramontin",
@@ -83822,8 +84014,8 @@
       "nationality": "France",
       "category": "platinum",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Treluyer",
@@ -83882,8 +84074,8 @@
       "nationality": "Italy",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Tremoulet",
@@ -84026,8 +84218,8 @@
       "nationality": "United States",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Trogen",
@@ -84060,6 +84252,18 @@
       "firstNameNote": null,
       "searchAlias": null,
       "nationality": "France",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Trotzenberg",
+      "lastNameNote": null,
+      "firstName": "Marcus",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Germany",
       "category": "silver",
       "underInvestigation": false,
       "nextCategory": null,
@@ -84278,8 +84482,8 @@
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Tudurachi",
@@ -84362,8 +84566,8 @@
       "nationality": "Finland",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Turiev",
@@ -84434,8 +84638,8 @@
       "nationality": "United Kingdom",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Turner",
@@ -84614,8 +84818,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Ueda",
@@ -84890,8 +85094,8 @@
       "nationality": "Argentina",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Uretsky",
@@ -85166,8 +85370,8 @@
       "nationality": "Netherlands",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Van Buren",
@@ -85238,8 +85442,8 @@
       "nationality": "Netherlands",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Van de craats",
@@ -85370,8 +85574,8 @@
       "nationality": "New Zealand",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Van der ende",
@@ -86162,8 +86366,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Varverud",
@@ -86582,8 +86786,8 @@
       "nationality": "Netherlands",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Vergne",
@@ -86930,8 +87134,8 @@
       "nationality": "Spain",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Vidau",
@@ -87026,8 +87230,8 @@
       "nationality": "Argentina",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Vietoris",
@@ -87230,8 +87434,8 @@
       "nationality": "Canada",
       "category": "platinum",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Villeneuve",
@@ -87254,8 +87458,8 @@
       "nationality": "Switzerland",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Vince",
@@ -87446,8 +87650,8 @@
       "nationality": "Netherlands",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Visser",
@@ -87530,8 +87734,8 @@
       "nationality": "Cyprus",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Vlok",
@@ -87962,8 +88166,8 @@
       "nationality": "South Africa",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Wachirarungruang",
@@ -88038,6 +88242,18 @@
       "nextCategoryDate": null
     },
     {
+      "lastName": "Wade",
+      "lastNameNote": null,
+      "firstName": "Pearce",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Canada",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
       "lastName": "Wadoux ducellier",
       "lastNameNote": "LWD",
       "firstName": "Lilou",
@@ -88046,8 +88262,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Wagner",
@@ -88346,8 +88562,8 @@
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Walker",
@@ -88778,8 +88994,8 @@
       "nationality": "United States",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Wareing",
@@ -88922,8 +89138,8 @@
       "nationality": "United Kingdom",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Waters",
@@ -89366,8 +89582,8 @@
       "nationality": "France",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Weisenberg",
@@ -90002,8 +90218,8 @@
       "nationality": "Germany",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Wiedmann",
@@ -90266,8 +90482,8 @@
       "nationality": "United Kingdom",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "gold",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Williamson",
@@ -90338,8 +90554,8 @@
       "nationality": "United States",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Wilson",
@@ -90386,8 +90602,8 @@
       "nationality": "United Kingdom",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Wilson",
@@ -90434,8 +90650,8 @@
       "nationality": "Austria",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Wimmer",
@@ -90578,8 +90794,8 @@
       "nationality": "Italy",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Wishofer",
@@ -90728,6 +90944,18 @@
     {
       "lastName": "Wolf",
       "lastNameNote": null,
+      "firstName": "Denis Robin",
+      "firstNameNote": null,
+      "searchAlias": null,
+      "nationality": "Germany",
+      "category": "silver",
+      "underInvestigation": false,
+      "nextCategory": null,
+      "nextCategoryDate": null
+    },
+    {
+      "lastName": "Wolf",
+      "lastNameNote": null,
       "firstName": "Florian",
       "firstNameNote": null,
       "searchAlias": null,
@@ -90746,8 +90974,8 @@
       "nationality": "Germany",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Wolfe",
@@ -91874,8 +92102,8 @@
       "nationality": "China",
       "category": "gold",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "platinum",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Yeany",
@@ -92042,8 +92270,8 @@
       "nationality": "Turkey",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Yoon",
@@ -92066,8 +92294,8 @@
       "nationality": "Malaysia",
       "category": "gold",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Yoong",
@@ -92294,8 +92522,8 @@
       "nationality": "China",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Yu",
@@ -92678,8 +92906,8 @@
       "nationality": "Italy",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Zanon di valgiurata",
@@ -93170,8 +93398,8 @@
       "nationality": "Italy",
       "category": "silver",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Zitza",
@@ -93182,8 +93410,8 @@
       "nationality": "United States",
       "category": "silver",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Zlobin",
@@ -93218,8 +93446,8 @@
       "nationality": "France",
       "category": "bronze",
       "underInvestigation": false,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "bronze",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Zollo",
@@ -93302,8 +93530,8 @@
       "nationality": "Germany",
       "category": "gold",
       "underInvestigation": true,
-      "nextCategory": null,
-      "nextCategoryDate": null
+      "nextCategory": "silver",
+      "nextCategoryDate": "2027-01-01"
     },
     {
       "lastName": "Zulauf",
